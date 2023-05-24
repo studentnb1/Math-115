@@ -1,0 +1,103 @@
+---
+title: "git_01"
+author: "Nathan Ballesteros"
+date: "May 24 2023"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with a sequence of commits to the master branch.
+Our project will be done using several commits to the master branch.
+<!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
+you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
+
+## First Verse 
+<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+"SISTER, sister, go to bed!  
+Go and rest your weary head."  
+Thus the prudent brother said.  
+"Do you want a battered hide,  
+Or scratches to your face applied?"  
+
+
+
+## Second Verse
+<!--Put the first five lines of a poem by Robert Frost here!-->
+My long two-pointed ladder's sticking through a tree  
+Toward heaven still,  
+And there's a barrel that I didn't fill  
+Beside it, and there may be two or three  
+Apples I didn't pick upon some bough.  
+
+
+
+## Third Verse
+<!--Put the first two verses of The Walrus and the Carpenter here!-->
+"The sun was shining on the sea,  
+      Shining with all his might:  
+He did his very best to make  
+      The billows smooth and bright —  
+And this was odd, because it was  
+      The middle of the night.  
+
+The moon was shining sulkily,  
+      Because she thought the sun  
+Had got no business to be there  
+      After the day was done —  
+"It's very rude of him," she said,  
+      "To come and spoil the fun."  
+      
+      
+## Last Verse
+<!--Put a short poem of your choice 8-20 lines,here!-->
+Oh, water, essence of life's flow,  
+A precious gift from depths below,  
+From mountain springs to ocean's vast,  
+You quench our thirst, our spirits en masse.  
+
+In rivers' dance, you freely roam,  
+Carving canyons with gentle foam,  
+Your melodies, a soothing rhyme,  
+Embracing shores, marking time.  
+
+A tranquil lake, a mirrored sky,  
+Reflecting beauty, oh so high,  
+Beneath your surface, secrets keep,  
+A world unseen, where wonders creep.  
+
+In raindrops falling from above,  
+You nourish Earth with tender love,  
+Reviving fields, refreshing souls,  
+A symphony as each droplet rolls.  
+
+In waterfalls, your power cascades,  
+A roaring force that never fades,  
+An awe-inspiring, majestic sight,  
+Igniting wonder, pure delight.  
+
+Within the ocean's vast expanse,  
+Endless depths where mysteries dance,  
+A kingdom teeming with vibrant life,  
+In coral reefs, a colorful strife.  
+
+You cleanse our bodies, cleanse our minds,  
+In baths, in showers, and gentle tides,  
+Revitalizing, washing away,  
+All troubles held throughout the day.  
+
+In frozen form, you turn to ice,  
+Creating landscapes, a winter's spice,  
+Glittering crystals, shimmering white,  
+Transforming the world, a dazzling sight.  
+
+Oh, water, you're the elixir of all,  
+An element on which we eternally call,  
+From birth to end, you're intertwined,  
+A symbol of life, forever kind.  
+
+Let us cherish and protect your grace,  
+Preserve your purity, embrace your space,  
+For in your essence, we find our rebirth,  
+Water, the source of life on Earth.  
